@@ -2,7 +2,7 @@ import json
 import requests
 
 #################################################################
-search_text = "leonar"  # NOME DO USUÁRIO (regra contains)
+search_text = "xxxxxxxxxx"  # NOME DO USUÁRIO (regra contains)
 ###################################### ###########################
 
 def load_api_keys(filename):
