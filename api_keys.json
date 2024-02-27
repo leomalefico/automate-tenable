@@ -1,0 +1,14 @@
+{
+    "CLIENT 01": {"accessKey": "XXXXXXXXXXXXXXXXXX", "secretKey": "XXXXXXXXXXXXXXXXXX"},
+    
+    "CLIENT 02": {"accessKey": "XXXXXXXXXXXXXXXXXX", "secretKey": "XXXXXXXXXXXXXXXXXX"},
+    
+    "CLIENT 03": {"accessKey": "XXXXXXXXXXXXXXXXXX", "secretKey": "XXXXXXXXXXXXXXXXXX"},
+    
+    "CLIENT 04": {"accessKey": "XXXXXXXXXXXXXXXXXX", "secretKey": "XXXXXXXXXXXXXXXXXX"},
+    
+    "CLIENT 05": {"accessKey": "XXXXXXXXXXXXXXXXXX", "secretKey": "XXXXXXXXXXXXXXXXXX"},
+    
+    "CLIENT 06": {"accessKey": "XXXXXXXXXXXXXXXXXX", "secretKey": "XXXXXXXXXXXXXXXXXX"}
+    
+}
